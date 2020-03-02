@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPagerSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragmentA">fragment A</string>
+    <string name="fragmentB">fragment B</string>
+    <string name="fragmentC">fragment C</string>
+    <string name="fragmentD">fragment D</string>
+</resources>
